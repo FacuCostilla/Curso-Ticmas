@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+p{
+    color:red;
+    width: 300px;
+}
+
+h1{
+    border: 1px solid black;
+    /*padding: 5px;
+    margin: 30px;*/
+    margin: 20px 15px 10px;
+    font-weight: bold;
+    color:aquamarine;
+    /*Tipografia Importada de Google Fonts*/
+    font-family: 'Roboto', sans-serif;
+}
+#one{
+    color:blueviolet;
+    font-size: 23px;
+    border: thick solid orange;
+}
+.thisclass{
+    font-weight: bold;
+    color: coral;
+}
+section p{
+    color: darkorchid;
+    font-size: large;
+    font-weight: bold;
+}
